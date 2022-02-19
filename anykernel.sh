@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=LEGION-X KERNEL by venom-stark
+kernel.string=Xenon_xe Edition v1.0
 do.devicecheck=1
 do.modules=0
 do.systemless=1
