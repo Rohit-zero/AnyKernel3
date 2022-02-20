@@ -10,8 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=oplus6893
-device.name2=denniz
+device.name1=RMX2151
+device.name2=rmx2151
+device.name3=rmx2161
+device.name4=RMX2161
+device.name5=RMX2001
 supported.versions=11-12
 supported.patchlevels=
 '; } # end properties
