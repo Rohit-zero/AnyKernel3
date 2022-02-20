@@ -11,7 +11,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=oplus6893
-device.name2=oneplus nord 2
+device.name2=denniz
 supported.versions=11-12
 supported.patchlevels=
 '; } # end properties
