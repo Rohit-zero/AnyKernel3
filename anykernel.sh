@@ -11,6 +11,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=mojito
+device.name1=mojito
 device.name2=sunny
 supported.versions=11-12
 supported.patchlevels=
